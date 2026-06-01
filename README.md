@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Elmar Nazarov
@@ -13,7 +12,7 @@ Building scalable web, mobile, AI, and enterprise systems from architecture to d
 
 ## About Me
 
-I'm a Full-Stack Engineer from Baku, Azerbaijan with 5+ years of experience building scalable web, mobile, and enterprise systems.
+I'm a Full-Stack Engineer with 4+ years of experience building scalable web, mobile, and enterprise systems.
 
 I specialize in backend architecture, database design, responsive frontend development, DevOps, automation, and AI integrations. I enjoy building production-ready systems that combine clean architecture, performance, security, and real business value.
 
@@ -99,15 +98,22 @@ Application for optimizing solar panel placement based on sunlight and shadow an
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=ElmarNazarov&show_icons=true&theme=tokyonight&hide_border=true" 
-  alt="Elmar's GitHub Stats" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElmarNazarov&theme=tokyonight" 
+  alt="GitHub Profile Summary" 
 />
 
 <br />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarNazarov&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Top Languages" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElmarNazarov&theme=tokyonight" 
+  alt="Repos Per Language" 
+/>
+
+<br />
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElmarNazarov&theme=tokyonight" 
+  alt="Most Commit Language" 
 />
 
 </div>
@@ -127,4 +133,3 @@ Application for optimizing solar panel placement based on sunlight and shadow an
 ### Always building, learning, and improving systems.
 
 </div>
-```
