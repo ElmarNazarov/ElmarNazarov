@@ -80,9 +80,9 @@ Application for optimizing solar panel placement based on sunlight and shadow an
 
 <div align="center">
 
-![Elmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmar6088&show_icons=true&theme=tokyonight)
+![Elmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElmarNazarov&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmar6088&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarNazarov&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -92,7 +92,7 @@ Application for optimizing solar panel placement based on sunlight and shadow an
 
 - Email: **Elmar.Nazarov.A@gmail.com**
 - Location: **Baku, Azerbaijan**
-- GitHub: **@elmar6088**
+- GitHub: **@ElmarNazarov**
 
 ---
 
